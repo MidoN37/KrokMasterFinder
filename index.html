@@ -19,12 +19,7 @@
         <header class="mb-6 flex flex-col sm:flex-row justify-between items-start gap-4">
             <div>
                 <h1 id="title" class="text-3xl font-black text-slate-900 tracking-tight">Вітаємо! 👋</h1>
-                <div class="flex items-center gap-2 mt-1">
-                    <p id="subtitle" class="text-slate-500">Оберіть тип іспиту</p>
-                    <input type="text" id="tg-id" placeholder="Твій Chat ID" 
-                           class="text-[10px] px-2 py-1 rounded bg-slate-200 border-none outline-none w-24 text-slate-600 focus:ring-1 focus:ring-blue-400" 
-                           onchange="saveId()">
-                </div>
+                <p id="subtitle" class="text-slate-500 mt-1">Оберіть тип іспиту</p>
             </div>
             <button onclick="resetNav()" id="back-btn" class="hidden bg-blue-50 text-blue-600 px-4 py-2 rounded-xl font-bold text-sm hover:bg-blue-100 transition-colors">На головну</button>
         </header>
@@ -63,19 +58,16 @@
         let history = [];
         let currentStepId = 'step-1';
         let selection = { type: '', source: '', level: '' };
+        
         const BOT_URL = "https://krok-bot.onrender.com";
+        const MY_ID = "7349230382"; // <--- HARDCODED ID
 
         async function init() {
             const r = await fetch('master_registry.json');
             masterData = await r.json();
-            document.getElementById('tg-id').value = localStorage.getItem('tg_chat_id') || "";
         }
 
-        function saveId() { localStorage.setItem('tg_chat_id', document.getElementById('tg-id').value); }
-
         async function sendToBot(btn, item) {
-            const userId = localStorage.getItem('tg_chat_id');
-            if (!userId) return alert("Введіть ID!");
             const originalText = btn.innerText;
             btn.innerText = "⏳";
             btn.disabled = true;
@@ -84,7 +76,7 @@
             if (!fileUrl.startsWith('http')) fileUrl = window.location.origin + '/' + item.path;
 
             try {
-                const res = await fetch(`${BOT_URL}/send?user_id=${userId}&url=${encodeURIComponent(fileUrl)}&name=${encodeURIComponent(item.name)}`);
+                const res = await fetch(`${BOT_URL}/send?user_id=${MY_ID}&url=${encodeURIComponent(fileUrl)}&name=${encodeURIComponent(item.name)}`);
                 if (res.ok) {
                     btn.innerText = "✅";
                     setTimeout(() => { btn.innerText = originalText; btn.disabled = false; }, 2000);
