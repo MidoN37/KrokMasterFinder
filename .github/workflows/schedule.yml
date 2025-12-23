@@ -1,0 +1,13 @@
+name: Daily Build Trigger
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs at 02:00 AM UTC every day
+  workflow_dispatch: # Allows you to trigger it manually for testing
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Netlify Hook
+        run: |
+          curl -X POST -d {} https://api.netlify.com/build_hooks/694ad3fa7a516940ad6a8731
