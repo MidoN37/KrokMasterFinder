@@ -16,7 +16,6 @@
 </head>
 <body class="bg-slate-50 min-h-screen p-4 sm:p-8">
     <div id="app" class="max-w-xl mx-auto">
-        
         <header class="mb-6 flex flex-col sm:flex-row justify-between items-start gap-4">
             <div>
                 <h1 id="title" class="text-3xl font-black text-slate-900 tracking-tight">Вітаємо! 👋</h1>
@@ -31,7 +30,7 @@
         </header>
 
         <div class="relative mb-8">
-            <input type="text" id="global-search" oninput="handleGlobalSearch()" placeholder="Швидкий пошук по всій базі..." 
+            <input type="text" id="global-search" oninput="handleGlobalSearch()" placeholder="Швидкий пошук..." 
                    class="w-full p-5 rounded-2xl shadow-lg border-none outline-none focus:ring-4 focus:ring-blue-500/20 text-lg">
         </div>
 
@@ -45,7 +44,6 @@
 
         <div id="step-2" class="view hidden space-y-1"></div>
         <div id="step-3" class="view hidden space-y-1"></div>
-
         <div id="step-4" class="view hidden">
             <div id="booklets-results" class="space-y-3 mb-8"></div>
             <div id="bases-section" class="hidden">
@@ -58,7 +56,6 @@
             <h2 class="text-xs font-black text-blue-500 uppercase tracking-widest mb-4">Результати пошуку</h2>
             <div id="search-results-container" class="space-y-3"></div>
         </div>
-
     </div>
 
     <script>
@@ -66,7 +63,6 @@
         let history = [];
         let currentStepId = 'step-1';
         let selection = { type: '', source: '', level: '' };
-
         const BOT_URL = "https://krok-bot.onrender.com";
 
         async function init() {
@@ -75,35 +71,27 @@
             document.getElementById('tg-id').value = localStorage.getItem('tg_chat_id') || "";
         }
 
-        function saveId() {
-            localStorage.setItem('tg_chat_id', document.getElementById('tg-id').value);
-        }
+        function saveId() { localStorage.setItem('tg_chat_id', document.getElementById('tg-id').value); }
 
         async function sendToBot(btn, item) {
             const userId = localStorage.getItem('tg_chat_id');
-            if (!userId) return alert("Введіть свій Telegram ID у поле зверху!");
-
+            if (!userId) return alert("Введіть ID!");
             const originalText = btn.innerText;
-            btn.innerText = "⏳...";
+            btn.innerText = "⏳";
             btn.disabled = true;
 
-            // Figure out absolute file URL
             let fileUrl = item.path;
-            if (!fileUrl.startsWith('http')) {
-                fileUrl = window.location.origin + '/' + item.path;
-            }
+            if (!fileUrl.startsWith('http')) fileUrl = window.location.origin + '/' + item.path;
 
             try {
-                const apiPath = `${BOT_URL}/send?user_id=${userId}&url=${encodeURIComponent(fileUrl)}&name=${encodeURIComponent(item.name)}`;
-                const res = await fetch(apiPath);
+                const res = await fetch(`${BOT_URL}/send?user_id=${userId}&url=${encodeURIComponent(fileUrl)}&name=${encodeURIComponent(item.name)}`);
                 if (res.ok) {
                     btn.innerText = "✅";
                     setTimeout(() => { btn.innerText = originalText; btn.disabled = false; }, 2000);
                 } else throw new Error();
             } catch (e) {
-                alert("Помилка: Бот офлайн або ID невірний.");
-                btn.innerText = "Err";
-                btn.disabled = false;
+                alert("Помилка: Бот офлайн.");
+                btn.innerText = "Err"; btn.disabled = false;
             }
         }
 
@@ -118,14 +106,10 @@
             const container = document.getElementById('search-results-container');
             if (q.length >= 3) {
                 container.innerHTML = '';
-                const filtered = masterData.filter(i => 
-                    i.name.toLowerCase().includes(q) || i.subject.toLowerCase().includes(q) || i.exam_type.toLowerCase().includes(q)
-                );
-                if (filtered.length === 0) container.innerHTML = '<div class="text-center p-10 text-slate-400 font-bold">Нічого не знайдено</div>';
-                else filtered.forEach(i => container.innerHTML += createCard(i));
+                const filtered = masterData.filter(i => i.name.toLowerCase().includes(q) || i.subject.toLowerCase().includes(q) || i.exam_type.toLowerCase().includes(q));
+                filtered.forEach(i => container.innerHTML += createCard(i));
                 showView('view-search');
-                document.getElementById('subtitle').innerText = `Знайдено: ${filtered.length} файлів`;
-            } else { showView(currentStepId); updateSubtitle(); }
+            } else { showView(currentStepId); }
         }
 
         function nextStep(current, value) {
@@ -141,74 +125,44 @@
 
         function renderSources() {
             const sources = [...new Set(masterData.filter(i => i.exam_type === selection.type).map(i => i.source))];
-            const container = document.getElementById('step-2');
-            container.innerHTML = sources.map(s => `<button onclick="nextStep(2, '${s}')" class="btn-nav"><div class="font-bold text-lg text-slate-700">${s}</div><span>→</span></button>`).join('');
-            updateSubtitle();
+            document.getElementById('step-2').innerHTML = sources.map(s => `<button onclick="nextStep(2, '${s}')" class="btn-nav"><b>${s}</b><span>→</span></button>`).join('');
             showView('step-2');
         }
 
         function renderLevels() {
             const levels = [...new Set(masterData.filter(i => i.exam_type === selection.type && i.source === selection.source).map(i => i.level))].sort();
-            const container = document.getElementById('step-3');
-            container.innerHTML = levels.map(l => `<button onclick="nextStep(3, '${l}')" class="btn-nav"><div class="font-bold text-lg text-slate-700">${l}</div><span>→</span></button>`).join('');
-            updateSubtitle();
+            document.getElementById('step-3').innerHTML = levels.map(l => `<button onclick="nextStep(3, '${l}')" class="btn-nav"><b>${l}</b><span>→</span></button>`).join('');
             showView('step-3');
         }
 
         function renderFinal() {
             const bookletDiv = document.getElementById('booklets-results');
             const basesDiv = document.getElementById('bases-results');
-            const basesSection = document.getElementById('bases-section');
             bookletDiv.innerHTML = ''; basesDiv.innerHTML = '';
-
             const filtered = masterData.filter(i => i.exam_type === selection.type && i.source === selection.source && i.level === selection.level);
-            const booklets = filtered.filter(i => i.type === 'booklet');
+            filtered.filter(i => i.type === 'booklet').forEach(i => bookletDiv.innerHTML += createCard(i));
             const bases = filtered.filter(i => i.type === 'base');
-
-            booklets.forEach(i => bookletDiv.innerHTML += createCard(i));
             if (bases.length > 0) {
-                basesSection.classList.remove('hidden');
+                document.getElementById('bases-section').classList.remove('hidden');
                 const grouped = bases.reduce((acc, i) => { acc[i.subject] = acc[i.subject] || []; acc[i.subject].push(i); return acc; }, {});
-                for (const [subject, items] of Object.entries(grouped)) {
-                    basesDiv.innerHTML += `<details class="group bg-white rounded-3xl border border-slate-200 overflow-hidden mb-2"><summary class="p-5 font-bold text-slate-700 cursor-pointer hover:bg-slate-50 flex justify-between items-center list-none"><span>📂 ${subject}</span><span class="text-xs bg-slate-100 text-slate-500 px-2 py-1 rounded-lg">${items.length}</span></summary><div class="p-3 space-y-2 bg-slate-50 border-t border-slate-100">${items.map(i => createCard(i)).join('')}</div></details>`;
+                for (const [subj, items] of Object.entries(grouped)) {
+                    basesDiv.innerHTML += `<details class="group bg-white rounded-3xl border mb-2"><summary class="p-5 font-bold list-none flex justify-between"><span>📂 ${subj}</span></summary><div class="p-3 space-y-2 bg-slate-50">${items.map(i => createCard(i)).join('')}</div></details>`;
                 }
-            } else { basesSection.classList.add('hidden'); }
-            updateSubtitle();
+            } else document.getElementById('bases-section').classList.add('hidden');
             showView('step-4');
-        }
-
-        function updateSubtitle() {
-            if (selection.level) document.getElementById('subtitle').innerText = `${selection.source} > ${selection.level}`;
-            else if (selection.source) document.getElementById('subtitle').innerText = `База: ${selection.source}`;
-            else if (selection.type) document.getElementById('subtitle').innerText = `Категорія: ${selection.type}`;
-            else document.getElementById('subtitle').innerText = "Оберіть тип іспиту";
-            if (selection.type) document.getElementById('title').innerText = selection.type;
         }
 
         function createCard(i) {
             const badge = i.source.includes('База') ? 'bg-ct' : (i.source.includes('Звичайні') ? 'bg-baza' : 'bg-old');
-            // Stringify the object safely for the button click
-            const itemData = JSON.stringify(i).replace(/'/g, "&apos;");
-            return `
-                <div class="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex justify-between items-center">
-                    <div class="pr-4">
-                        <span class="source-badge ${badge}">${i.source}</span>
-                        <div class="font-bold text-slate-800 leading-tight mt-1 text-sm">${i.name}</div>
-                    </div>
-                    <button onclick='sendToBot(this, ${itemData})' class="bg-blue-600 text-white px-4 py-2 rounded-xl font-bold text-xs shadow-md hover:bg-blue-700 transition-colors">GET</button>
-                </div>`;
+            const itemStr = JSON.stringify(i).replace(/'/g, "&apos;");
+            return `<div class="bg-white p-4 rounded-2xl border flex justify-between items-center mb-2"><div><span class="source-badge ${badge}">${i.source}</span><div class="font-bold text-sm mt-1">${i.name}</div></div><button onclick='sendToBot(this, ${itemStr})' class="bg-blue-600 text-white px-4 py-2 rounded-xl font-bold text-xs">GET</button></div>`;
         }
 
         function resetNav() {
-            history = [];
-            selection = { type: '', source: '', level: '' };
-            document.getElementById('global-search').value = '';
+            history = []; selection = { type: '', source: '', level: '' };
             document.getElementById('back-btn').classList.add('hidden');
-            document.getElementById('title').innerText = "Вітаємо! 👋";
-            updateSubtitle();
             showView('step-1');
         }
-
         init();
     </script>
 </body>
