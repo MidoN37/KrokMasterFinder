@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Krok Master Finder</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .btn-nav { background: white; padding: 1.5rem; border-radius: 1.5rem; border: 1px solid #e2e8f0; display: flex; align-items: center; justify-content: space-between; width: 100%; margin-bottom: 1rem; transition: all 0.2s; text-align: left; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .btn-nav:hover { border-color: #60a5fa; }
+        .btn-nav:active { transform: scale(0.98); }
+        .source-badge { font-size: 0.6rem; padding: 2px 8px; border-radius: 6px; font-weight: 800; text-transform: uppercase; }
+        .bg-ct { background: #dcfce7; color: #166534; border: 1px solid #bbf7d0; }
+        .bg-baza { background: #fef9c3; color: #854d0e; border: 1px solid #fef08a; }
+        .bg-old { background: #fee2e2; color: #991b1b; border: 1px solid #fecaca; }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen p-4 sm:p-8">
+    <div id="app" class="max-w-xl mx-auto">
+        
+        <!-- Header -->
+        <header class="mb-6 flex justify-between items-start">
+            <div>
+                <h1 id="title" class="text-3xl font-black text-slate-900 tracking-tight">Вітаємо! 👋</h1>
+                <p id="subtitle" class="text-slate-500 mt-1">Оберіть тип іспиту</p>
+            </div>
+            <button onclick="resetNav()" id="back-btn" class="hidden bg-blue-50 text-blue-600 px-4 py-2 rounded-xl font-bold text-sm hover:bg-blue-100 transition-colors">На головну</button>
+        </header>
+
+        <!-- NEW: Global Search Bar -->
+        <div class="relative mb-8">
+            <input type="text" id="global-search" oninput="handleGlobalSearch()" placeholder="Швидкий пошук по всій базі..." 
+                   class="w-full p-5 rounded-2xl shadow-lg border-none outline-none focus:ring-4 focus:ring-blue-500/20 text-lg">
+            <div id="search-indicator" class="hidden absolute right-5 top-5 text-slate-300">
+                <svg class="w-6 h-6 animate-spin" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
+            </div>
+        </div>
+
+        <!-- Navigation Views -->
+        <div id="step-1" class="view space-y-1">
+            <button onclick="nextStep(1, 'Krok English')" class="btn-nav"><div><span class="text-2xl mr-4">🇬🇧</span><span class="font-bold text-xl text-slate-700">Krok English</span></div><span>→</span></button>
+            <button onclick="nextStep(1, 'Крок Українська')" class="btn-nav"><div><span class="text-2xl mr-4">🇺🇦</span><span class="font-bold text-xl text-slate-700">Крок Українська</span></div><span>→</span></button>
+            <button onclick="nextStep(1, 'Московська')" class="btn-nav"><div><span class="text-2xl mr-4">⚰️</span><span class="font-bold text-xl text-slate-700">Московська</span></div><span>→</span></button>
+            <button onclick="nextStep(1, 'ЄДКІ')" class="btn-nav"><div><span class="text-2xl mr-4">📘</span><span class="font-bold text-xl text-slate-700">ЄДКІ</span></div><span>→</span></button>
+            <button onclick="nextStep(1, 'АМПС')" class="btn-nav"><div><span class="text-2xl mr-4">📙</span><span class="font-bold text-xl text-slate-700">АМПС</span></div><span>→</span></button>
+        </div>
+
+        <div id="step-2" class="view hidden space-y-1"></div>
+        <div id="step-3" class="view hidden space-y-1"></div>
+
+        <!-- Results View -->
+        <div id="step-4" class="view hidden">
+            <div id="booklets-results" class="space-y-3 mb-8"></div>
+            <div id="bases-section" class="hidden">
+                <h2 class="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em] mb-4 border-b pb-2">Архівні Бази</h2>
+                <div id="bases-results" class="space-y-3"></div>
+            </div>
+        </div>
+
+        <!-- Global Search Results View -->
+        <div id="view-search" class="hidden space-y-3">
+            <h2 class="text-xs font-black text-blue-500 uppercase tracking-widest mb-4">Результати пошуку</h2>
+            <div id="search-results-container" class="space-y-3"></div>
+        </div>
+
+    </div>
+
+    <script>
+        let masterData = [];
+        let history = [];
+        let currentStepId = 'step-1';
+        let selection = { type: '', source: '', level: '' };
+
+        async function init() {
+            const r = await fetch('master_registry.json');
+            masterData = await r.json();
+        }
+
+        function showView(id) {
+            document.querySelectorAll('.view, #view-search').forEach(v => v.classList.add('hidden'));
+            document.getElementById(id).classList.remove('hidden');
+            if (id !== 'view-search') currentStepId = id;
+        }
+
+        function handleGlobalSearch() {
+            const q = document.getElementById('global-search').value.toLowerCase();
+            const container = document.getElementById('search-results-container');
+            
+            if (q.length >= 3) {
+                container.innerHTML = '';
+                const filtered = masterData.filter(i => 
+                    i.name.toLowerCase().includes(q) || 
+                    i.subject.toLowerCase().includes(q) ||
+                    i.exam_type.toLowerCase().includes(q)
+                );
+
+                if (filtered.length === 0) {
+                    container.innerHTML = '<div class="text-center p-10 text-slate-400 font-bold">Нічого не знайдено</div>';
+                } else {
+                    filtered.forEach(i => container.innerHTML += createCard(i));
+                }
+                showView('view-search');
+                document.getElementById('subtitle').innerText = `Знайдено: ${filtered.length} файлів`;
+            } else {
+                // Return to the last active navigation step
+                showView(currentStepId);
+                updateSubtitle();
+            }
+        }
+
+        function nextStep(current, value) {
+            if (current === 1) selection.type = value;
+            if (current === 2) selection.source = value;
+            if (current === 3) selection.level = value;
+
+            history.push(current);
+            if (current === 1) renderSources();
+            if (current === 2) renderLevels();
+            if (current === 3) renderFinal();
+            
+            document.getElementById('back-btn').classList.remove('hidden');
+        }
+
+        function renderSources() {
+            const sources = [...new Set(masterData.filter(i => i.exam_type === selection.type).map(i => i.source))];
+            const container = document.getElementById('step-2');
+            container.innerHTML = sources.map(s => `<button onclick="nextStep(2, '${s}')" class="btn-nav"><div class="font-bold text-lg text-slate-700">${s}</div><span>→</span></button>`).join('');
+            updateSubtitle();
+            showView('step-2');
+        }
+
+        function renderLevels() {
+            const levels = [...new Set(masterData.filter(i => i.exam_type === selection.type && i.source === selection.source).map(i => i.level))].sort();
+            const container = document.getElementById('step-3');
+            container.innerHTML = levels.map(l => `<button onclick="nextStep(3, '${l}')" class="btn-nav"><div class="font-bold text-lg text-slate-700">${l}</div><span>→</span></button>`).join('');
+            updateSubtitle();
+            showView('step-3');
+        }
+
+        function renderFinal() {
+            const bookletDiv = document.getElementById('booklets-results');
+            const basesDiv = document.getElementById('bases-results');
+            const basesSection = document.getElementById('bases-section');
+            bookletDiv.innerHTML = ''; basesDiv.innerHTML = '';
+
+            const filtered = masterData.filter(i => i.exam_type === selection.type && i.source === selection.source && i.level === selection.level);
+            const booklets = filtered.filter(i => i.type === 'booklet');
+            const bases = filtered.filter(i => i.type === 'base');
+
+            booklets.forEach(i => bookletDiv.innerHTML += createCard(i));
+            if (bases.length > 0) {
+                basesSection.classList.remove('hidden');
+                const grouped = bases.reduce((acc, i) => { acc[i.subject] = acc[i.subject] || []; acc[i.subject].push(i); return acc; }, {});
+                for (const [subject, items] of Object.entries(grouped)) {
+                    basesDiv.innerHTML += `<details class="group bg-white rounded-3xl border border-slate-200 overflow-hidden mb-2"><summary class="p-5 font-bold text-slate-700 cursor-pointer hover:bg-slate-50 flex justify-between items-center list-none"><span>📂 ${subject}</span><span class="text-xs bg-slate-100 text-slate-500 px-2 py-1 rounded-lg">${items.length}</span></summary><div class="p-3 space-y-2 bg-slate-50 border-t border-slate-100">${items.map(i => createCard(i)).join('')}</div></details>`;
+                }
+            } else { basesSection.classList.add('hidden'); }
+            updateSubtitle();
+            showView('step-4');
+        }
+
+        function updateSubtitle() {
+            if (selection.level) document.getElementById('subtitle').innerText = `${selection.source} > ${selection.level}`;
+            else if (selection.source) document.getElementById('subtitle').innerText = `База: ${selection.source}`;
+            else if (selection.type) document.getElementById('subtitle').innerText = `Категорія: ${selection.type}`;
+            else document.getElementById('subtitle').innerText = "Оберіть тип іспиту";
+            
+            if (selection.type) document.getElementById('title').innerText = selection.type;
+        }
+
+        function createCard(i) {
+            const badge = i.source === 'База з ЦТ' ? 'bg-ct' : (i.source === 'Звичайні Базі' ? 'bg-baza' : 'bg-old');
+            return `<div class="bg-white p-4 rounded-2xl shadow-sm border border-slate-100 flex justify-between items-center"><div class="pr-4"><span class="source-badge ${badge}">${i.source}</span><div class="font-bold text-slate-800 leading-tight mt-1 text-sm">${i.name}</div></div><a href="${encodeURI(i.path)}" target="_blank" class="bg-blue-600 text-white px-4 py-2 rounded-xl font-bold text-xs shadow-md hover:bg-blue-700 transition-colors">Open</a></div>`;
+        }
+
+        function resetNav() {
+            history = [];
+            selection = { type: '', source: '', level: '' };
+            document.getElementById('global-search').value = '';
+            document.getElementById('back-btn').classList.add('hidden');
+            document.getElementById('title').innerText = "Вітаємо! 👋";
+            updateSubtitle();
+            showView('step-1');
+        }
+
+        function goBack() {
+            const lastStep = history.pop();
+            if (lastStep === 1) { selection.type = ''; selection.source = ''; selection.level = ''; }
+            if (lastStep === 2) { selection.source = ''; selection.level = ''; }
+            if (lastStep === 3) { selection.level = ''; }
+            
+            document.querySelectorAll('.view, #view-search').forEach(v => v.classList.add('hidden'));
+            document.getElementById(`step-${lastStep}`).classList.remove('hidden');
+            currentStepId = `step-${lastStep}`;
+            updateSubtitle();
+            if (history.length === 0) resetNav();
+        }
+
+        init();
+    </script>
+</body>
+</html>

@@ -1,0 +1,4835 @@
+[
+  {
+    "name": "КРОК 1 Medicine (EN)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok%201%20Medicine%20(EN).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Pharmacy (EN) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok 1 Pharmacy (EN) (від 2026 року).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Pharmacy (EN)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok%201%20Pharmacy%20(EN).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Stomatology (EN)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok%201%20Stomatology%20(EN).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Medicine (EN)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok%202%20Medicine%20(EN).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Pharmacy (EN)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok%202%20Pharmacy%20(EN).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Public health (EN) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok 2 Public health (EN) (від 2026 року).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Stomatology (EN)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Krok%202%20Stomatology%20(EN).pdf",
+    "exam_type": "Krok English",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Екстрена медицина (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Бакалаври Екстрена медицина (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Медсестринство (EN) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Бакалаври Медсестринство (EN) (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Медсестринство (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Бакалаври Медсестринство (UA) (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Медсестринство (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Бакалаври Медсестринство (UA).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Технології медичної діагностики та лікування (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Бакалаври Технології медичної діагностики та лікування (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Фізична терапія, ерготерапія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Бакалаври Фізична терапія, ерготерапія (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Фізична терапія, ерготерапія",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Бакалаври Фізична терапія, ерготерапія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медсестринство (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Медсестринство (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медсестринство",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Медсестринство.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Стоматологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Стоматологія (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Стоматологія Ортопедична (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Стоматологія Ортопедична (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Стоматологія Ортопедична",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Стоматологія Ортопедична.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Стоматологія Профілактична (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Стоматологія Профілактична (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Стоматологія Профілактична",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Стоматологія Профілактична.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Стоматологія",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Стоматологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Фармація, промислова фармація (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Фармація, промислова фармація (від 2026 року).pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Фармація, промислова фармація",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/ЄДКІ Фахова передвища освіта Фармація, промислова фармація.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Медицина (питання множинного вибору)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Медицина (питання множинного вибору).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Медицина (текст 1 та питання до нього )",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Медицина (текст 1 та питання до нього ).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Медицина (текст 2 та питання до нього)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Медицина (текст 2 та питання до нього).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Медицина (текст 3 та питання до нього)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Медицина (текст 3 та питання до нього).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС МедицинаФармаціяСтоматологія (текст 1 та питання до нього)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС МедицинаФармаціяСтоматологія (текст 1 та питання до нього).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Стоматологія (питання множинного вибору)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Стоматологія (питання множинного вибору).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Стоматологія (текст 1 та питання до нього)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Стоматологія (текст 1 та питання до нього).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Фармація (текст 1 та питання до нього)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Фармація (текст 1 та питання до нього).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Фармація (текст 2 та питання до нього)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Фармація (текст 2 та питання до нього).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "АМПС Фармація, промислова фармація (питання множинного вибору)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/АМПС Фармація, промислова фармація (питання множинного вибору).pdf",
+    "exam_type": "АМПС",
+    "level": "Інше",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Медицина (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Медицина (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Медицина (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Медицина (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Промислова фармація (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Промислова фармація (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Промислова фармація",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Промислова фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Стоматологія (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Стоматологія (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Стоматологія (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Стоматологія (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Фармація (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Фармація (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Фармація (UA) (для здобувачів, які складатимуть іспит з червня 2025 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Фармація (UA) (для здобувачів, які складатимуть іспит з червня 2025 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Фармація (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 1 Фармація (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Громадське здоров'я (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Громадське здоров'я (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Громадське здоров'я (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Громадське здоров'я (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Ерготерапія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Ерготерапія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Ерготерапія",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Ерготерапія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Лабораторна діагностика (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Медицина (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Медицина (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Медицина (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Медицина (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Медична психологія (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Медична психологія (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Педіатрія (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Педіатрія (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Педіатрія (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Педіатрія (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Промислова фармація (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Промислова фармація (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Промислова фармація",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Промислова фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Стоматологія (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Стоматологія (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Стоматологія (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Стоматологія (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Технології медичної діагностики та лікування (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Технології медичної діагностики та лікування (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Технології медичної діагностики та лікування",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Технології медичної діагностики та лікування.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Фармація (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Фармація (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Фармація (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Фармація (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Фізична терапія (UA) (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Фізична терапія (UA) (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Фізична терапія (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 2 Фізична терапія (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Інфекційні хвороби (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Інфекційні хвороби (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Акушерство та гінекологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Акушерство та гінекологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Анестезіологія та інтенсивна терапія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Анестезіологія та інтенсивна терапія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Внутрішні хвороби (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Внутрішні хвороби (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Дерматовенерологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Дерматовенерологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Дитяча хірургія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Дитяча хірургія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Епідеміологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Епідеміологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Загальна практика - сімейна медицина (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Загальна практика - сімейна медицина (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Лабораторна діагностика, вірусологія, мікробіологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Лабораторна діагностика, вірусологія, мікробіологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Медицина невідкладних станів (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Медицина невідкладних станів (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Медична Психологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Медична Психологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Неврологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Неврологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Ортопедія і травматологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Ортопедія і травматологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Отоларингологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Отоларингологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Офтальмологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Офтальмологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Патологічна анатомія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Патологічна анатомія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Педіатрія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Педіатрія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Психіатрія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Психіатрія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Радіологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Радіологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Радіологія",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Радіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Стоматологія (UA)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Стоматологія (UA).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Стоматологія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Стоматологія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Фармація (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Фармація (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Фармація",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Фізична та реабілітаційна медицина (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Фізична та реабілітаційна медицина (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Фізична та реабілітаційна медицина",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Фізична та реабілітаційна медицина.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Хірургія (від 2026 року)",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Хірургія (від 2026 року).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Хірургія",
+    "source": "База з ЦТ",
+    "path": "https://raw.githubusercontent.com/MidoN37/daily-scraper-krok/main/Merged/PDF/Крок 3 Хірургія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Нові тести",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Біологічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Біологічна хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Біологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Біологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Нормальна анатомія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Нормальна анатомія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Патологічна анатомія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Патологічна анатомія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Мікробіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Мікробіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Патологічна фізіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Патологічна фізіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Фармакологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Фармакологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Нормальна фізіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Нормальна фізіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Гістологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Гістологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Приклади тестів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Приклади тестів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лікувальна справа - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Лікувальна справа/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Лікувальна справа",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Фармація - Фізіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Фізіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Біологічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Біологічна хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Органічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Органічна хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Неорганічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Неорганічна хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Фармацевтична ботаніка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Фармацевтична ботаніка.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Мікробіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Мікробіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Фізична та колоїдна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Фізична та колоїдна хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Патологічна фізіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Патологічна фізіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Фармакологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Фармакологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Аналітична хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Аналітична хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармація - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Фармація/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Біологічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Біологічна хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Біологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Біологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Нормальна анатомія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Нормальна анатомія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Патологічна анатомія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Патологічна анатомія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Мікробіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Мікробіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Патологічна фізіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Патологічна фізіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Фармакологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Фармакологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Нормальна фізіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Нормальна фізіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Гістологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Гістологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматологія - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 1/Стоматологія/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "Стоматологія",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Педіатрія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Педіатрія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Гігієна з гігієнічною експертизою",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Гігієна з гігієнічною експертизою.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Патофізіологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Патофізіологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Патоморфологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Патоморфологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Гістологія, цитологія та ембріологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Гістологія, цитологія та ембріологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Оториноларингологія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Оториноларингологія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Клінічна лабораторна діагностика",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Клінічна лабораторна діагностика.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Хірургія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Хірургія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Мікробіологія, вірусологія та імунологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Мікробіологія, вірусологія та імунологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Дерматологія, венерологія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Дерматологія, венерологія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Лабораторна служба. Оц. аналітичних методів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Лабораторна служба. Оц. аналітичних методів.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Офтальмологія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Офтальмологія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Лабораторна діагностика паразитарних інвазій",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Лабораторна діагностика паразитарних інвазій.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Психіатрія та наркологія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Психіатрія та наркологія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Акушерство та гінекологія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Акушерство та гінекологія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Біологічна та клінічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Біологічна та клінічна хімія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Усі буклети.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Фтизіатрія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Фтизіатрія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Неврологія з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Неврологія з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Інфекційні хвороби з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Інфекційні хвороби з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Догляд за хворими та медична маніпуляційна техніка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Догляд за хворими та медична маніпуляційна техніка.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Внутрішня медицина з оц. рез. досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Внутрішня медицина з оц. рез. досліджень.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Основи охорони праці",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Основи охорони праці.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторна діагностика - Соціальна медицина",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Лабораторна діагностика/Соціальна медицина.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Організаційно-управлінська діяльність",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Організаційно-управлінська діяльність.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Клінічне медсестринство в педіатрії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Клінічне медсестринство в педіатрії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Клінічне медсестринство в хірургії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Клінічне медсестринство в хірургії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Орг.-упр. діяльність",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Орг.-упр. діяльність.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Клінічне медсестринство в професійній патології",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Клінічне медсестринство в професійній патології.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Клінічне медсестринство у внутрішній медицині",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Клінічне медсестринство у внутрішній медицині.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Усі буклети.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Клінічне медсестринство в проф. патології",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Клінічне медсестринство в проф. патології.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Сестринська справа - Клінічне медсестринство у внут. медицині",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Бакалаври/Сестринська справа/Клінічне медсестринство у внут. медицині.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Догляд за хворими",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Догляд за хворими.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Педіатрія та дит. інф.",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Педіатрія та дит. інф..pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - НC в хірургії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/НC в хірургії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - НC у внутрішній медицині",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/НC у внутрішній медицині.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Усі буклети.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - НC в педіатрії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/НC в педіатрії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Акушерство і гінекологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Акушерство і гінекологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Дисцип. терапевтичного профілю",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Дисцип. терапевтичного профілю.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Педіатрія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Педіатрія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Дисцип. хірургічного профілю",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Дисцип. хірургічного профілю.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Хірургічні хвороби",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Хірургічні хвороби.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Догляд за хворими та маніп. тех.",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Догляд за хворими та маніп. тех..pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - Внутрішня медицина",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/Внутрішня медицина.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лікувальна справа - НC в акушерстві та гінекології",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лікувальна справа/НC в акушерстві та гінекології.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Дезінфектологія, ПВЛІ",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Дезінфектологія, ПВЛІ.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Військо-медична підготовка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Військо-медична підготовка.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Мікробіологія, вірусологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Мікробіологія, вірусологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Гігієна харчування",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Гігієна харчування.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Епідеміологія з медичною паразитологією",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Епідеміологія з медичною паразитологією.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Мікробіологія, вірусологія та імунологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Мікробіологія, вірусологія та імунологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Гігієна дітей та підлітків",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Гігієна дітей та підлітків.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Радіаційна гігієна",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Радіаційна гігієна.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Епідеміологія та паразитологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Епідеміологія та паразитологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Соціальна медицина та ООЗ",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Соціальна медицина та ООЗ.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Усі буклети.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Інфектологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Інфектологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Соцмедицина та організація охорони здоров’я",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Соцмедицина та організація охорони здоров’я.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Гігієна праці",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Гігієна праці.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Військово-медична підготовка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Військово-медична підготовка.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Комун. гігієна з осн. сан. справи",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Комун. гігієна з осн. сан. справи.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Комунальна гігієна",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Комунальна гігієна.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Аналітична хімія з тех. лаб. робіт",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Аналітична хімія з тех. лаб. робіт.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофілактика - Аналітична хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофілактика/Аналітична хімія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофілактика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Охорона праці",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Охорона праці.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Акушерство",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Акушерство.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Гінекологія, репр. здоров'я.",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Гінекологія, репр. здоров'я..pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Анестезіологія та реаніматологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Анестезіологія та реаніматологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Усі буклети.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Хірургія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Хірургія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Дерматовенерологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Дерматовенерологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Інфектологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Інфектологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Нервові та психічні хвороби",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Нервові та психічні хвороби.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Гінекологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Гінекологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Догляд за хворими та маніпуляційна техніка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Догляд за хворими та маніпуляційна техніка.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Гінекологія, репр. здоров'я",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Гінекологія, репр. здоров'я.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Педіатрія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Педіатрія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Внутрішня медицина",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Внутрішня медицина.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Загальний догляд за хворими",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Загальний догляд за хворими.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Клінічна патологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Клінічна патологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Клінічні лаб. дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Клінічні лаб. дослідження.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Біологічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Біологічна хімія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Усі буклети.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Інфекційні хвороби",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Інфекційні хвороби.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Гіcтологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Гіcтологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Основи охорони праці",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Основи охорони праці.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Гігієна з основами екології",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Гігієна з основами екології.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Медична паразитологія з ентомологією",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Медична паразитологія з ентомологією.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лабораторна діагностика - Мікробіологія, імунологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Лабораторна діагностика/Мікробіологія, імунологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Основи медсестринства",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Основи медсестринства.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Медсестринство в педіатрії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Медсестринство в педіатрії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Акушерство",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Акушерство.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Медсестринство в гінекології",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Медсестринство в гінекології.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - НC в хірургії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/НC в хірургії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Усі буклети.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Хірургія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Хірургія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Медсестринство в акушерстві",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Медсестринство в акушерстві.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - НC в педіатрії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/НC в педіатрії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - НC в терапії",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/НC в терапії.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Гінекологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Гінекологія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Педіатрія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Педіатрія.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Хірургічний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Хірургічний профіль.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Терапевтичний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Терапевтичний профіль.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - Внутрішня медицина",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/Внутрішня медицина.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринська справа - НC в акушерстві та гінекології",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринська справа/НC в акушерстві та гінекології.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринська справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Частина-1",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Частина-1.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Частина-2",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Частина-2.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Хірургія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Хірургія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Акушерство і гінекологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Акушерство і гінекологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Педіатрія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Педіатрія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Гігієна та ООЗ",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Гігієна та ООЗ.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Терапія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Терапія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лікувальна справа - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лікувальна справа/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лікувальна справа",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Фармація - Менеджмент та маркетинг",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Менеджмент та маркетинг.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Клінічна фармація",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Клінічна фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Організація та економіка фармації",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Організація та економіка фармації.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Фармакогнозія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Фармакогнозія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Аптечна технологія ліків",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Аптечна технологія ліків.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Фармацевтична хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Фармацевтична хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Фармакологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Фармакологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Заводська технологія ліків",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Заводська технологія ліків.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Токсикологічна хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Токсикологічна хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Приклади тестів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Приклади тестів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармація - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Фармація/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Дитяча хірургічна стоматологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Дитяча хірургічна стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Ортодонтія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Ортодонтія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Загальний медичний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Загальний медичний профіль.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Терапевтична стоматологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Терапевтична стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Суміш-130-питань",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Суміш-130-питань.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Хірургічна стоматологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Хірургічна стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Дитяча терапевтична стоматологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Дитяча терапевтична стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Ортопедична стоматологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Ортопедична стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматологія - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Стоматологія/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Стоматологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Косметологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Косметологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Менеджмент та маркетинг",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Менеджмент та маркетинг.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Організація та економіка фармації",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Організація та економіка фармації.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Промислове виробництво парфюмерно-косметичних засобів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Промислове виробництво парфюмерно-косметичних засобів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Фармакогнозія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Фармакогнозія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Аптечна технологія ліків",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Аптечна технологія ліків.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Фармацевтична та косметична хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Фармацевтична та косметична хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Косметологія - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Косметологія/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Косметологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика - Клінічна оцінка лабораторних досліджень",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лабораторна діагностика/Клінічна оцінка лабораторних досліджень.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика - Біохімія патологічних процесів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лабораторна діагностика/Біохімія патологічних процесів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика - Клінічна патогістологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лабораторна діагностика/Клінічна патогістологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика - Лабораторна діагностика",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лабораторна діагностика/Лабораторна діагностика.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика - Клінічна імунологія та алергологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лабораторна діагностика/Клінічна імунологія та алергологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика - Цитологічна діагностика",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лабораторна діагностика/Цитологічна діагностика.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лабораторна діагностика - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Лабораторна діагностика/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Лабораторна діагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Медична хімія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Медична хімія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Менеджмент та маркетинг",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Менеджмент та маркетинг.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Технологія лікарських засобів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Технологія лікарських засобів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Організація та економіка фармації",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Організація та економіка фармації.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Фармакогнозія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Фармакогнозія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Клінічна фармакологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Клінічна фармакологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Фармакоекономіка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Фармакоекономіка.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Фармацевтична опіка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Фармацевтична опіка.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клінічна фармація - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Клінічна фармація/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Клінічна фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Медична психологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Медична психологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Гігієна",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Гігієна.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Психіатрія та наркологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Психіатрія та наркологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Педіатрія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Педіатрія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Гігієна та ООЗ",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Гігієна та ООЗ.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Загальна психологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Загальна психологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Терапія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Терапія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медична психологія - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 2/Медична психологія/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "Медична психологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Військова справа",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Військова справа.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Педіатричний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Педіатричний профіль.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Хірургія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Хірургія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Інфекційні хвороби",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Інфекційні хвороби.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Акушерсько-гінекологічний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Акушерсько-гінекологічний профіль.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Акушерство і гінекологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Акушерство і гінекологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Педіатрія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Педіатрія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Хірургічний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Хірургічний профіль.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Інфекційний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Інфекційний профіль.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Терапевтичний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Терапевтичний профіль.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Терапія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Терапія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Організаційний профіль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Організаційний профіль.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Приклади тестів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Приклади тестів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лікувальна справа - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лікувальна справа/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лікувальна справа",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Фармація - Організація",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Фармація/Організація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Фармація - Спеціальна підготовка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Фармація/Спеціальна підготовка.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Фармація - Фармакогнозія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Фармація/Фармакогнозія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Фармація - Фармацевтична технологія",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Фармація/Фармацевтична технологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Фармація - Фармацевтичний аналіз лікарських засобів",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Фармація/Фармацевтичний аналіз лікарських засобів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Фармація",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Фармація - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Фармація/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Надання допомоги",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Надання допомоги.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Організація допомоги та профілактики",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Організація допомоги та профілактики.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Повторне відвідування",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Повторне відвідування.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Первинне відвідування",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Первинне відвідування.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Надання допомоги та профілактики",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Надання допомоги та профілактики.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Допомога",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Допомога.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Диспансеризація",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Диспансеризація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Невідкладна допомога",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Невідкладна допомога.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Особлива тактика ведення",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Особлива тактика ведення.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Організація допомоги",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Організація допомоги.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматологія - Усі буклети",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Стоматологія/Буклети/Усі буклети.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Стоматологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Лабораторна діагностика - Організація лабораторної служби України",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лабораторна діагностика/Організація лабораторної служби України.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторна діагностика - Загальноклінічні методи дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лабораторна діагностика/Загальноклінічні методи дослідження.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторна діагностика - Гематологічні дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лабораторна діагностика/Гематологічні дослідження.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторна діагностика - Біохімічні методи дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лабораторна діагностика/Біохімічні методи дослідження.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторна діагностика - Цитологічні дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Українська/PDF Merged/Крок 3/Лабораторна діагностика/Цитологічні дослідження.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "Лабораторна діагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Analytic Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Analytic Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Inorganic Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Inorganic Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Analytic Chemistry (Not from Krok!)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Analytic Chemistry (Not from Krok!).pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - All Booklets",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/All Booklets.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Physcolloid Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Physcolloid Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Botany",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Botany.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Pharmaceutical Botany",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Pharmaceutical Botany.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Pharmacology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Pharmacology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Physical and Colloid Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Physical and Colloid Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Biological chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Biological chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Organic Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Organic Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Physiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Physiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Orgainc Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Orgainc Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Biochemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Biochemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Microbiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Microbiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Pharmacy - Pathological Physiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Pharmacy/Pathological Physiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Samples-1",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Samples-1.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Samples-2",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Samples-2.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - All Booklets",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/All Booklets.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Medicine - Pathological Anatomy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Pathological Anatomy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Normal Physiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Normal Physiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Pharmacology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Pharmacology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Histology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Histology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Normal Anatomy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Normal Anatomy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Physiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Physiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Biochemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Biochemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Microbiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Microbiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Pathological Physiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Pathological Physiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Medicine - Biology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Medicine/Biology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - All Booklets",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/All Booklets.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Pathological Anatomy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Pathological Anatomy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Normal Physiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Normal Physiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Pharmacology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Pharmacology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Histology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Histology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Normal Anatomy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Normal Anatomy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Biochemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Biochemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Microbiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Microbiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Pathological Physiology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Pathological Physiology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Dentistry - Biology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 1/Dentistry/Biology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 1",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Nursing - Management in nursing",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Бакалаври/Nursing/Management in nursing.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Nursing - Clinical nursing in therapy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Бакалаври/Nursing/Clinical nursing in therapy.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Nursing - Clinical nursing in surgery",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Бакалаври/Nursing/Clinical nursing in surgery.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Nursing - Clinical nursing in prof. pathology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Бакалаври/Nursing/Clinical nursing in prof. pathology.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Nursing - Clinical nursing in pediatrics",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Бакалаври/Nursing/Clinical nursing in pediatrics.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Pharmaceutic Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Pharmaceutic Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Clinical Pharmacy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Clinical Pharmacy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Plant Medicine Technology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Plant Medicine Technology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - All Booklets",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/All Booklets.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Pharmacognosia",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Pharmacognosia.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Toxicological Chemistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Toxicological Chemistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Pharmacy compounding",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Pharmacy compounding.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Pharmacology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Pharmacology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Sample (Mix of questions)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Sample (Mix of questions).pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Organisation and Economy in Pharmacy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Organisation and Economy in Pharmacy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Pharmacy - Management and Marketing in Pharmacy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Pharmacy/Management and Marketing in Pharmacy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Pharmacy",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Medicine - Therapy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/Therapy.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Medicine - Hygiene",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/Hygiene.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Medicine - Pediatrics",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/Pediatrics.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Medicine - Hygiene and Essentials Of Health Care",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/Hygiene and Essentials Of Health Care.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Medicine - Samples-2020",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/Samples-2020.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Medicine - All Booklets",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/All Booklets.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Medicine - Obstetrics and Gynaecology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/Obstetrics and Gynaecology.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Medicine - Surgery",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Medicine/Surgery.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Medicine",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Therapeutic Dentistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Therapeutic Dentistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Samples-2020",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Samples-2020.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - All Booklets",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/All Booklets.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Orthodontics",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Orthodontics.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Surgical Dentistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Surgical Dentistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Children Surgical Dentistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Children Surgical Dentistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Orthopedic Dentistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Orthopedic Dentistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Children Therapeutic Dentistry",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Children Therapeutic Dentistry.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Dentistry - Genaral Medical Questions",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/Krok 2/Dentistry/Genaral Medical Questions.pdf",
+    "exam_type": "Krok English",
+    "level": "КРОК 2",
+    "subject": "Dentistry",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Emergency cases in therapy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Emergency cases in therapy.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Nursing in Pediatrics",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Nursing in Pediatrics.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - All Booklets",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/All Booklets.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Nursing in therapy",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Nursing in therapy.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Nursery in obstetrics and gynaecology",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Nursery in obstetrics and gynaecology.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Therapeutic profile",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Therapeutic profile.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Nursing in surgery",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Nursing in surgery.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Surgical profile",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Surgical profile.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Essentials of Nursing",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Essentials of Nursing.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Nursing - Emergency cases in surgery",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/English/PDF Merged/ЄДКІ Фахова передвища освіта/Nursing/Emergency cases in surgery.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Nursing",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармация - Физколоидная химия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Физколоидная химия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармация - Фармакология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Фармакология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармация - Патологическая физиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Патологическая физиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармация - Биохимия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Биохимия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармация - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Фармация - Микробиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Микробиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармация - Аналитическая химия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Аналитическая химия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Фармация - Фармацевтическая ботаника",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Фармация/Фармацевтическая ботаника.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Биология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Биология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Паталогическая анатомия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Паталогическая анатомия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Фармакология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Фармакология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Нормальная анатомия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Нормальная анатомия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Биохимия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Биохимия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Паталогическая физиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Паталогическая физиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Гистология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Гистология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Микробиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Микробиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Стоматология - Нормальная физиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Стоматология/Нормальная физиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Биология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Биология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Паталогическая анатомия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Паталогическая анатомия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Фармакология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Фармакология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Нормальная анатомия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Нормальная анатомия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Биохимия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Биохимия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Паталогическая физиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Паталогическая физиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Гистология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Гистология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Микробиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Микробиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Нормальная физиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Нормальная физиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Анатомия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Анатомия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 1 Лечебное дело - Физиология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 1/Лечебное дело/Физиология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 1",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Бакалаври Лабораторная диагностика - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Бакалаври/Лабораторная диагностика/Все буклеты.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Бакалаври",
+    "subject": "Лабораторная диагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Медпрофилактика - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Медпрофилактика/Все буклеты.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Медпрофилактика",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Акушерство - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Акушерство/Все буклеты.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Акушерство",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Лечебное дело - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Лечебное дело/Все буклеты.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Лечебное дело",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринское дело - Основы медсестринства",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринское дело/Основы медсестринства.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринское дело",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринское дело - Медсестринство в педиатрии",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринское дело/Медсестринство в педиатрии.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринское дело",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринское дело - Медсестринство во внутр. медицине",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринское дело/Медсестринство во внутр. медицине.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринское дело",
+    "type": "base"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринское дело - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринское дело/Все буклеты.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринское дело",
+    "type": "booklet"
+  },
+  {
+    "name": "ЄДКІ Фахова передвища освіта Сестринское дело - Медсестринство в гинекологии",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/ЄДКІ Фахова передвища освіта/Сестринское дело/Медсестринство в гинекологии.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "ЄДКІ Фахова передвища освіта",
+    "subject": "Сестринское дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Клиническая фармация - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Клиническая фармация/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Клиническая фармация",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Косметология - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Косметология/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Косметология",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Фармация - ОЭФ",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/ОЭФ.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - Токсикологическая химия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/Токсикологическая химия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - Фармакология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/Фармакология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - ОЭФ (Организация и экономика фармации)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/ОЭФ (Организация и экономика фармации).pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - Фармакогнозия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/Фармакогнозия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - ЗТЛ (Заводская технология лекарств)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/ЗТЛ (Заводская технология лекарств).pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - ЗТЛ (Заводская технология)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/ЗТЛ (Заводская технология).pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - Фармацевтическая химия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/Фармацевтическая химия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Фармация - ММФ (Менеджмент и маркетинг в фармации)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/ММФ (Менеджмент и маркетинг в фармации).pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - ММФ",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/ММФ.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - АТЛ (Аптечная технология лекарств)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/АТЛ (Аптечная технология лекарств).pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - АТЛ (Аптечная технология)",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/АТЛ (Аптечная технология).pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Фармация - Клиническая фармация",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Фармация/Клиническая фармация.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Фармация",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Детская хирургическая стоматология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Детская хирургическая стоматология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Терапевтическая стоматология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Терапевтическая стоматология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Ортопедическая стоматология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Ортопедическая стоматология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Детская терапевтическая стоматология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Детская терапевтическая стоматология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Общий медицинский профиль",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Общий медицинский профиль.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Хирургическая стоматология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Хирургическая стоматология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Стоматология - Ортодонтия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Стоматология/Ортодонтия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Медицинская психология - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Медицинская психология/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Медицинская психология",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Терапия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Терапия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Общая врачебная подготовка",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Общая врачебная подготовка.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Акушерство и гинекология",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Акушерство и гинекология.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Гигиена",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Гигиена.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Организация здравохранения",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Организация здравохранения.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Хирургия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Хирургия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лечебное дело - Педиатрия",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лечебное дело/Педиатрия.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лечебное дело",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 2 Лабораторная диагностика - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 2/Лабораторная диагностика/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 2",
+    "subject": "Лабораторная диагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Фармация - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Фармация/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Фармация",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Стоматология - Неотложная помощь",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Стоматология/Неотложная помощь.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматология - Повторное посещение",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Стоматология/Повторное посещение.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматология - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Стоматология/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Стоматология",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Стоматология - Первичное лечение",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Стоматология/Первичное лечение.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Стоматология - Организация помощи и профилактики",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Стоматология/Организация помощи и профилактики.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Стоматология",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лечебное дело - Все буклеты",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Лечебное дело/Все буклеты.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Лечебное дело",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 Лабораторная диагностика - Організація лабораторної служби України",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Лабораторная диагностика/Організація лабораторної служби України.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Лабораторная диагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторная диагностика - Загальноклінічні методи дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Лабораторная диагностика/Загальноклінічні методи дослідження.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Лабораторная диагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторная диагностика - Гематологічні дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Лабораторная диагностика/Гематологічні дослідження.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Лабораторная диагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторная диагностика - Біохімічні методи дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Лабораторная диагностика/Біохімічні методи дослідження.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Лабораторная диагностика",
+    "type": "base"
+  },
+  {
+    "name": "КРОК 3 Лабораторная диагностика - Цитологічні дослідження",
+    "source": "Звичайні Базі",
+    "path": "Звичайні Базі/Московська/PDF Merged/Крок 3/Лабораторная диагностика/Цитологічні дослідження.pdf",
+    "exam_type": "Московська",
+    "level": "КРОК 3",
+    "subject": "Лабораторная диагностика",
+    "type": "base"
+  },
+  {
+    "name": "єдкі бакалаври медсестринство",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі бакалаври/медсестринство/pdf/єдкі бакалаври медсестринство.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі бакалаври",
+    "subject": "медсестринство",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі бакалаври лабораторна діагностика",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі бакалаври/лабораторна діагностика/pdf/єдкі бакалаври лабораторна діагностика.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі бакалаври",
+    "subject": "лабораторна діагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі бакалаври сестринська справа",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі бакалаври/сестринська справа/pdf/єдкі бакалаври сестринська справа.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі бакалаври",
+    "subject": "сестринська справа",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі фахова передвища освіта лікувальна справа",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі фахова передвища освіта/лікувальна справа/pdf/єдкі фахова передвища освіта лікувальна справа.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі фахова передвища освіта",
+    "subject": "лікувальна справа",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі фахова передвища освіта медико-профілактична справа",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі фахова передвища освіта/медико-профілактична справа/pdf/єдкі фахова передвища освіта медико-профілактична справа.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі фахова передвища освіта",
+    "subject": "медико-профілактична справа",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі фахова передвища освіта стоматологія ортопедична",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі фахова передвища освіта/стоматологія ортопедична/pdf/єдкі фахова передвища освіта стоматологія ортопедична.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі фахова передвища освіта",
+    "subject": "стоматологія ортопедична",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі фахова передвища освіта лабораторна діагностика",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі фахова передвища освіта/лабораторна діагностика/pdf/єдкі фахова передвища освіта лабораторна діагностика.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі фахова передвища освіта",
+    "subject": "лабораторна діагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі фахова передвища освіта сестринська справа",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі фахова передвища освіта/сестринська справа/pdf/єдкі фахова передвища освіта сестринська справа.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі фахова передвища освіта",
+    "subject": "сестринська справа",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі фахова передвища освіта фармація, промислова фармація",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі фахова передвища освіта/фармація, промислова фармація/pdf/єдкі фахова передвища освіта фармація, промислова фармація.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі фахова передвища освіта",
+    "subject": "фармація, промислова фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "єдкі фахова передвища освіта акушерська справа",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/єдкі/єдкі фахова передвища освіта/акушерська справа/pdf/єдкі фахова передвища освіта акушерська справа.pdf",
+    "exam_type": "ЄДКІ",
+    "level": "єдкі фахова передвища освіта",
+    "subject": "акушерська справа",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 фізична терапія, ерготерапія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 1/фізична терапія, ерготерапія/pdf/крок 1 фізична терапія, ерготерапія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "фізична терапія, ерготерапія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 фармація",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 1/фармація/pdf/крок 1 фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 стоматологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 1/стоматологія/pdf/крок 1 стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "стоматологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 медицина",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 1/медицина/pdf/крок 1 медицина.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "медицина",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 1 педіатрія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 1/педіатрія/pdf/крок 1 педіатрія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 1",
+    "subject": "педіатрія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 ерготерапія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/ерготерапія/pdf/крок 2 ерготерапія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "ерготерапія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 фармація",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/фармація/pdf/крок 2 фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 стоматологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/стоматологія/pdf/крок 2 стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "стоматологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 медицина",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/медицина/pdf/крок 2 медицина.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "медицина",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 педіатрія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/педіатрія/pdf/крок 2 педіатрія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "педіатрія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 фізична терапія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/фізична терапія/pdf/крок 2 фізична терапія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "фізична терапія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 клінічна фармація",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/клінічна фармація/pdf/крок 2 клінічна фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "клінічна фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 технологія парфумерно-косметичних засобів",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/технологія парфумерно-косметичних засобів/pdf/крок 2 технологія парфумерно-косметичних засобів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "технологія парфумерно-косметичних засобів",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 2 медична психологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 2/медична психологія/pdf/крок 2 медична психологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 2",
+    "subject": "медична психологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 фармація",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/фармація/pdf/крок 3 фармація.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "фармація",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 стоматологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/стоматологія/pdf/крок 3 стоматологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "стоматологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 психіатрія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/психіатрія/pdf/крок 3 психіатрія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "психіатрія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 хірургія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/хірургія/pdf/крок 3 хірургія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "хірургія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 внутрішні хвороби",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/внутрішні хвороби/pdf/крок 3 внутрішні хвороби.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "внутрішні хвороби",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 інфекційні хвороби",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/інфекційні хвороби/pdf/крок 3 інфекційні хвороби.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "інфекційні хвороби",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 педіатрія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/педіатрія/pdf/крок 3 педіатрія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "педіатрія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 фізична та реабілітаційна медицина (фрм)",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/фізична та реабілітаційна медицина (фрм)/pdf/крок 3 фізична та реабілітаційна медицина (фрм).pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "фізична та реабілітаційна медицина (фрм)",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 офтальмологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/офтальмологія/pdf/крок 3 офтальмологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "офтальмологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 епідеміологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/епідеміологія/pdf/крок 3 епідеміологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "епідеміологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 радіологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/радіологія/pdf/крок 3 радіологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "радіологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 дерматовенерологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/дерматовенерологія/pdf/крок 3 дерматовенерологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "дерматовенерологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 загальна практика-сімейна медицина",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/загальна практика-сімейна медицина/pdf/крок 3 загальна практика-сімейна медицина.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "загальна практика-сімейна медицина",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 патологічна анатомія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/патологічна анатомія/pdf/крок 3 патологічна анатомія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "патологічна анатомія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 неврологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/неврологія/pdf/крок 3 неврологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "неврологія",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 лабораторна діагностика",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/лабораторна діагностика/pdf/крок 3 лабораторна діагностика.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "лабораторна діагностика",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 медицина невідкладних станів",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/медицина невідкладних станів/pdf/крок 3 медицина невідкладних станів.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "медицина невідкладних станів",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 загальна лікарська підготовка",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/загальна лікарська підготовка/pdf/крок 3 загальна лікарська підготовка.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "загальна лікарська підготовка",
+    "type": "booklet"
+  },
+  {
+    "name": "КРОК 3 медична психологія",
+    "source": "Старше ЦТ",
+    "path": "Старше ЦТ/крок 3/медична психологія/pdf/крок 3 медична психологія.pdf",
+    "exam_type": "Крок Українська",
+    "level": "КРОК 3",
+    "subject": "медична психологія",
+    "type": "booklet"
+  }
+]
