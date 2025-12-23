@@ -1,7 +1,7 @@
 name: Daily Build Trigger
 on:
   schedule:
-    - cron: '0 2 * * *' # Runs at 02:00 AM UTC every day
+    - cron: '30 11 * * *' # Runs at 02:00 AM UTC every day
   workflow_dispatch: # Allows you to trigger it manually for testing
 
 jobs:
